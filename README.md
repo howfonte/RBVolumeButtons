@@ -9,4 +9,4 @@ This tweak/app needs updating constantly due to the "complete lack of skills for
 
 Please do not hesitate to contact me at the following email address: chasefromm@mail.com.
 
-There will be an "INSTALL" button (without quotes) provided on thus README.md file soon.
+There will be an "INSTALL" button (without quotes) provided on this README.md file soon.
